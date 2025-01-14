@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stasp\\source\\repos\\KR_2_Kulakevych\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7336E4A3-5090-4386-BDB2-57C94BC3B5D0}|KR_2_Kulakevych\\KR_2_Kulakevych.vcxproj|C:\\Users\\stasp\\source\\repos\\KR_2_Kulakevych\\KR_2_Kulakevych\\KR_2_Kulakevych.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7336E4A3-5090-4386-BDB2-57C94BC3B5D0}|KR_2_Kulakevych\\KR_2_Kulakevych.vcxproj|solutionrelative:KR_2_Kulakevych\\KR_2_Kulakevych.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7336E4A3-5090-4386-BDB2-57C94BC3B5D0}|KR_2_Kulakevych\\KR_2_Kulakevych.vcxproj|C:\\Users\\stasp\\source\\repos\\KR_2_Kulakevych\\KR_2_Kulakevych\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7336E4A3-5090-4386-BDB2-57C94BC3B5D0}|KR_2_Kulakevych\\KR_2_Kulakevych.vcxproj|solutionrelative:KR_2_Kulakevych\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7336E4A3-5090-4386-BDB2-57C94BC3B5D0}|KR_2_Kulakevych\\KR_2_Kulakevych.vcxproj|C:\\Users\\stasp\\source\\repos\\KR_2_Kulakevych\\KR_2_Kulakevych\\Structurs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7336E4A3-5090-4386-BDB2-57C94BC3B5D0}|KR_2_Kulakevych\\KR_2_Kulakevych.vcxproj|solutionrelative:KR_2_Kulakevych\\Structurs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7336E4A3-5090-4386-BDB2-57C94BC3B5D0}|KR_2_Kulakevych\\KR_2_Kulakevych.vcxproj|C:\\Users\\stasp\\Desktop\\Yankin_KR\\Yankin_KR\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Structurs.h",
+              "DocumentMoniker": "C:\\Users\\stasp\\source\\repos\\KR_2_Kulakevych\\KR_2_Kulakevych\\Structurs.h",
+              "RelativeDocumentMoniker": "KR_2_Kulakevych\\Structurs.h",
+              "ToolTip": "C:\\Users\\stasp\\source\\repos\\KR_2_Kulakevych\\KR_2_Kulakevych\\Structurs.h",
+              "RelativeToolTip": "KR_2_Kulakevych\\Structurs.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T18:07:18.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Functions.cpp",
+              "DocumentMoniker": "C:\\Users\\stasp\\source\\repos\\KR_2_Kulakevych\\KR_2_Kulakevych\\Functions.cpp",
+              "RelativeDocumentMoniker": "KR_2_Kulakevych\\Functions.cpp",
+              "ToolTip": "C:\\Users\\stasp\\source\\repos\\KR_2_Kulakevych\\KR_2_Kulakevych\\Functions.cpp",
+              "RelativeToolTip": "KR_2_Kulakevych\\Functions.cpp",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAIsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T18:04:06.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Functions.h",
+              "DocumentMoniker": "C:\\Users\\stasp\\Desktop\\Yankin_KR\\Yankin_KR\\Functions.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Yankin_KR\\Yankin_KR\\Functions.h",
+              "ToolTip": "C:\\Users\\stasp\\Desktop\\Yankin_KR\\Yankin_KR\\Functions.h",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\Yankin_KR\\Yankin_KR\\Functions.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T17:18:36.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KR_2_Kulakevych.cpp",
+              "DocumentMoniker": "C:\\Users\\stasp\\source\\repos\\KR_2_Kulakevych\\KR_2_Kulakevych\\KR_2_Kulakevych.cpp",
+              "RelativeDocumentMoniker": "KR_2_Kulakevych\\KR_2_Kulakevych.cpp",
+              "ToolTip": "C:\\Users\\stasp\\source\\repos\\KR_2_Kulakevych\\KR_2_Kulakevych\\KR_2_Kulakevych.cpp",
+              "RelativeToolTip": "KR_2_Kulakevych\\KR_2_Kulakevych.cpp",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAwNgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T17:17:48.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

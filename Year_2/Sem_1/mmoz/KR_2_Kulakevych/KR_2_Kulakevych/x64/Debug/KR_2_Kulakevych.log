@@ -1,0 +1,8 @@
+﻿  KR_2_Kulakevych.cpp
+C:\Users\stasp\source\repos\KR_2_Kulakevych\KR_2_Kulakevych\KR_2_Kulakevych.cpp(136,16): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+C:\Users\stasp\source\repos\KR_2_Kulakevych\KR_2_Kulakevych\KR_2_Kulakevych.cpp(137,4): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+C:\Users\stasp\source\repos\KR_2_Kulakevych\KR_2_Kulakevych\KR_2_Kulakevych.cpp(138,4): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+C:\Users\stasp\source\repos\KR_2_Kulakevych\KR_2_Kulakevych\KR_2_Kulakevych.cpp(138,16): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+C:\Users\stasp\source\repos\KR_2_Kulakevych\KR_2_Kulakevych\KR_2_Kulakevych.cpp(140,4): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+C:\Users\stasp\source\repos\KR_2_Kulakevych\KR_2_Kulakevych\KR_2_Kulakevych.cpp(159,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  KR_2_Kulakevych.vcxproj -> C:\Users\stasp\source\repos\KR_2_Kulakevych\x64\Debug\KR_2_Kulakevych.exe
