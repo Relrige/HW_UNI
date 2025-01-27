@@ -1,0 +1,4 @@
+﻿  PracticeTask.cpp
+C:\Users\stasp\source\repos\PracticeTask\PracticeTask\PracticeTask.cpp(8,27): warning C4244: 'initializing': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\stasp\source\repos\PracticeTask\PracticeTask\PracticeTask.cpp(75,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  PracticeTask.vcxproj -> C:\Users\stasp\source\repos\PracticeTask\x64\Debug\PracticeTask.exe
