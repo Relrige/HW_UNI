@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <title>Pract4</title>
+</head>
+
+<body>
+    <header>
+        <section class="navbar">
+            <section class="top-badge">
+                <div class="badge-end"></div>
+                <a>
+                    <p>
+                        Pizza
+                    </p>
+                    <p>
+                        KMA
+                    </p>
+                </a>
+            </section>
+                <section class="information">
+                    <section class="contacts">
+                        <span class="phone">(044) 222 5 222</span>
+                        <span class="schedule">24 години/7 днів на тиждень</span>
+                        <span class="orders">Безкоштовна доставка піци</span>
+                        <button class="sign-in">Ввійти</button>
+                    </section>
+                    <section class="information-row">
+                        <a class="pizza-label">Піца</a>
+                    </section>
+                </section>
+        </section>
+    </header>
+
+    <main>
+
+    <section class="left-block">
+
+    <section class="head-for-menu" id="head-for-menu">
+        <section style="justify-self: center; margin-bottom: 10px;">
+            <div class="all-pizza-font">Усі піци</div>
+            <div id="pizza-count" class="quantity">8</div>
+        </section>
+        <section class="">
+            <button class="select-button" data-filter="all">Усі</button>
+            <button class="select-button-deselect" data-filter="М’ясна піца">М'ясні</button>
+            <button class="select-button-deselect" data-filter="pineapple">З ананасами</button>
+            <button class="select-button-deselect" data-filter="mushroom">З грибами</button>
+            <button class="select-button-deselect" data-filter="Морська піца">З морепродуктами</button>
+            <button class="select-button-deselect" data-filter="Вега піца">Вега</button>
+        </section>
+    </section>
+    <section class="pizzas-wrapper" id="pizzas-wrapper1">
+        <section class="pizza-container">
+            <div class="new-badge"></div>
+            <div class="pizza-image" style="background-image: url('assets/images/pizza_1.jpg');"></div>
+            <div class="pizza-name">Міксовий поло</div>
+            <div class="pizza-type">М’ясна піца</div>
+            <div class="pizza-description">Вітчина, куриця копчена, сир моцарелла, ананаси, кукурудза, петрушка, соус томатний</div>
+            <section class="pizza-details">
+                <div>
+                    <div class="detail-row">
+                        <div class="detail-label">∅</div>
+                        <div class="detail-value-small">30</div>
+                    </div>
+                    <div class="detail-row">
+                        <div class="detail-value-small">
+                            <img src="assets/images/weight.svg" alt="Weight Icon" style="width: 16px; height: 16px; margin-right: 5px;">
+                            430
+                        </div>
+                    </div>
+                        <div class="detail-row">
+                        <div class="detail-price">
+                            <strong>115</strong>
+                            <span>грн.</span>
+                        </div>
+                    </div>
+                    <div class="detail-row">
+                        <button class="select-button">Купити</button>
+                    </div>
+                </div>
+                <div>
+                <div class="detail-row">
+                    <div class="detail-label">∅</div>
+                    <div class="detail-value-small">40</div>
+                </div>
+                        <div class="detail-row">
+                            <div class="detail-value-small">
+                                <img src="assets/images/weight.svg" alt="Weight Icon" style="width: 16px; height: 16px; margin-right: 5px;">
+                                780
+                            </div>
+                        </div>
+                        <div class="detail-row">
+                            <div class="detail-price">
+                                <strong>179</strong>
+                                <span>грн.</span>
+                            </div>
+                        </div>
+                        <div class="detail-row">
+                            <button class="select-button">Купити</button>
+                        </div>
+                    </div>
+            </section>
+        </section>
+
+        <section class="pizza-container">
+            <div class="popular-badge"></div>
+            <div class="pizza-image" style="background-image: url('assets/images/pizza_2.jpg');"></div>
+            <div class="pizza-name">BBQ</div>
+            <div class="pizza-type">М'ясна піца</div>
+            <div class="pizza-description">Мисливські ковбаски, ковбаски папероні, шинка, сир домашній, шампінйони, петрушка, оливки</div>
+            <section class="pizza-details">
+                <div class="detail-column">
+                    <div class="detail-grid">
+                        <div class="detail-row detail-row-grid">
+                            <div class="detail-label">∅</div>
+                            <div class="detail-value-small">30</div>
+                        </div>
+                        <div class="detail-row detail-row-grid">
+                            <div class="detail-value-small">
+                                <img src="assets/images/weight.svg" alt="Weight Icon" style="width: 16px; height: 16px; margin-right: 5px;">
+                                460
+                            </div>
+                        </div>
+                        <div class="detail-row detail-row-grid">
+                            <div class="detail-price">
+                                <strong>139</strong>
+                                <span>грн.</span>
+                            </div>
+                        </div>
+                        <div class="detail-row detail-row-grid">
+                            <button class="select-button">Купити</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="detail-column">
+                    <div class="detail-grid">
+                        <div class="detail-row detail-row-grid">
+                            <div class="detail-label">∅</div>
+                            <div class="detail-value-small">40</div>
+                        </div>
+                        <div class="detail-row detail-row-grid">
+                            <div class="detail-value-small">
+                                <img src="assets/images/weight.svg" alt="Weight Icon" style="width: 16px; height: 16px; margin-right: 5px;">
+                                840
+                            </div>
+                        </div>
+                        <div class="detail-row detail-row-grid">
+                            <div class="detail-price">
+                                <strong>199</strong>
+                                <span>грн.</span>
+                            </div>
+                        </div>
+                        <div class="detail-row detail-row-grid">
+                            <button class="select-button">Купити</button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </section>
+        </section>
+    <section class="sidebar" id="sidebar">
+        <section class="container">
+            <div>
+              <span class="bold-text font-big">Замовлення</span>
+              <span class="circle">2</span>
+            </div>
+            <div id="clear-cart" class="small-text">Очистити замовлення</div>
+        </section>
+        <div id="cart-items"> 
+
+        </div> 
+            <section class="block-container">
+              <div class="block-header">
+                <span class="header-left">Сума замовлення:</span>
+                <span class="header-right" id="total-amount">587грн.</span>
+              </div>
+              <button id="order-button" class="order-button">Замовити</button>
+            </section>
+    </section>
+    </main>
+</section>
+<div>
+    <button class="go-back-button">Back</button>
+</div>
+<div id="charts">
+    <div id="quantity-chart" style="width: 35vw; height: 28vw; margin-left: 20px;"></div>
+    <div id="price-chart" style="width: 35vw; height: 28vw; margin-left: 20px;"></div>
+</div>
+
+<div class="bottom-text">
+    <div class="footer-grey-font">Pizza.24 - практичний проект в межах курсу JavaScript в Києво-Могилянській Академії</div>
+    <div class="footer-grey-font">Доставка піци не здійснюється</div>
+</div>
+
+
+    <footer>
+        <section class="discount-title">
+            <div class="title-text-d">
+              <p class="title-pizza-d">Цього</p>
+              <p class="title-pizza-d">тижня</p>
+              <p class="title-pizza-d">на все</p>
+            </div>
+            <div class="line-d"></div>
+            <p class="discount-d">-20%</p>
+            <div class="discount-ending"></div>
+        </section>
+          
+    </footer>
+    <script src="main.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+</body>
+</html>
